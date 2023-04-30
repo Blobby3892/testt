@@ -1,0 +1,17 @@
+/* CSS for displaying elements */
+.logo {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 2rem;
+}
+.loading-bar {
+  background-color: green;
+  height: 1rem;
+}
+.script-output {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
